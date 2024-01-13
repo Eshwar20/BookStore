@@ -1,2 +1,2 @@
 # BookStore
-MERN Stack Project
+A bookstore project developed using MERN Stack
